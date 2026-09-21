@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Rida Kazim
 
-<!--
-**rida-kazim/rida-kazim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a biosciences researcher with experience in molecular biology,
+microbial genomics, next-generation sequencing, and bioinformatics.
 
-Here are some ideas to get you started:
+My research experience includes whole-genome sequencing analysis,
+genome assembly and annotation, comparative genomics, metagenomics,
+antimicrobial-resistance analysis, and phylogenetic analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Research interests
+- Molecular and computational biology
+- Genomics and next-generation sequencing
+- Microbial genomics
+- Bioinformatics and biological data analysis
+- Integration of experimental and computational biology
+
+## Technical experience
+- WGS and NGS data analysis
+- Genome assembly and annotation
+- Comparative genomics
+- Metagenomics
+- SPAdes, Prokka and RAST
+- R
+- Linux / Ubuntu
+- PCR, DNA/RNA extraction and gel electrophoresis
+
+## Current focus
+I am interested in applying computational and quantitative approaches
+to biological research and developing stronger links between
+experimental biology and data analysis.
